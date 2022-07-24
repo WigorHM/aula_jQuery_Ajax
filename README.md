@@ -1,2 +1,1 @@
-# aula_jQuery_Ajax
-Aprendendo jQuery e Ajax
+Criando aplicação de consulta de CEP com jQuery e Ajax.
